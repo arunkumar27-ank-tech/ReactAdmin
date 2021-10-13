@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "work hard play hard",
+      "publishdedat": "10-02-2021"
+    },
+    {
+      "id": "2",
+      "title": "work hard play hard",
+      "publishdedat": "11-02-2021"
+    },
+    {
+      "id": "3",
+      "title": "work hard play hard",
+      "publishdedat": "10-02-2021"
+    },
+    {
+      "title": "s",
+      "publishdedat": "2021-10-29",
+      "id": "ArBzWRI"
+    }
+  ],
+  "users": [
+    {
+      "name": "Arunkumar Shanmugavel",
+      "email": "arun3@gmail.com",
+      "id": "jV773x5"
+    },
+    {
+      "name": "Ankitha",
+      "email": "ankithasreekumar1998@gmail.com",
+      "id": "pHmXHdN"
+    }
+  ]
+}
